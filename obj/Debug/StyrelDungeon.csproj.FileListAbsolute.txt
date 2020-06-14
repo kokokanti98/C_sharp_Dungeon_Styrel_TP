@@ -1,0 +1,69 @@
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CoreCompileInputs.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\obj\Debug\StyrelDungeon.csprojResolveAssemblyReference.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\bin\Debug\DungeonStyrel.exe.config
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\bin\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\bin\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\bin\Debug\System.ValueTuple.dll
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\bin\Debug\System.ValueTuple.xml
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\obj\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\StyrelDungeon\obj\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\bin\Debug\DungeonStyrel.exe.config
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\bin\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\bin\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\bin\Debug\System.ValueTuple.dll
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\bin\Debug\System.ValueTuple.xml
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\obj\Debug\StyrelDungeon.csprojAssemblyReference.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CoreCompileInputs.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CopyComplete
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\obj\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 1\StyrelDungeon\obj\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\bin\Debug\DungeonStyrel.exe.config
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\bin\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\bin\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\bin\Debug\System.ValueTuple.dll
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\bin\Debug\System.ValueTuple.xml
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\obj\Debug\StyrelDungeon.csprojAssemblyReference.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CoreCompileInputs.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CopyComplete
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\obj\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 2\StyrelDungeon\obj\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\bin\Debug\DungeonStyrel.exe.config
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\bin\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\bin\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\bin\Debug\System.ValueTuple.dll
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\bin\Debug\System.ValueTuple.xml
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\obj\Debug\StyrelDungeon.csprojAssemblyReference.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CoreCompileInputs.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CopyComplete
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\obj\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 3\StyrelDungeon\obj\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.exe.config
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.pdb
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\System.ValueTuple.dll
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\System.ValueTuple.xml
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csprojAssemblyReference.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CoreCompileInputs.cache
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CopyComplete
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\DungeonStyrel.exe
+D:\Arcreane\Formation\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\DungeonStyrel.pdb
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csprojAssemblyReference.cache
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CoreCompileInputs.cache
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\DungeonStyrel.exe
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\DungeonStyrel.pdb
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.exe.config
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.exe
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.pdb
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\System.ValueTuple.dll
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\System.ValueTuple.xml
+C:\Users\Dominique\OneDrive\Arcreane\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CopyComplete
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.exe.config
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.exe
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\DungeonStyrel.pdb
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\System.ValueTuple.dll
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\bin\Debug\System.ValueTuple.xml
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csprojAssemblyReference.cache
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CoreCompileInputs.cache
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\StyrelDungeon.csproj.CopyComplete
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\DungeonStyrel.exe
+C:\Users\Dominique\OneDrive\Arcreane\Formation\Styrel\Formations\C#\StyrelDungeon\Etape 4\StyrelDungeon\obj\Debug\DungeonStyrel.pdb
